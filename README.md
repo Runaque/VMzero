@@ -1,4 +1,4 @@
-# VMzero
+# VMzero — a unified launcher for running M5Stack apps on the Cardputer Zero (including the Lite)
 
 *A concept and project foundation by Runaque*
 
